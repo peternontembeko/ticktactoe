@@ -4,6 +4,7 @@ namespace TicTacToeSubmissionConole
 {
     class Program
     {
+        int tempValue;
         static void Main(string[] args)
         {
             ConsoleColor oldColor = Console.ForegroundColor;
